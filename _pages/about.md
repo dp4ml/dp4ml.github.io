@@ -39,6 +39,7 @@ in deep learning. For example, Lagrange duality can be useful for
 model explanation because it allows us to measure sensitivity of
 certain perturbations, but this is not yet fully exploited. This
 slowdown is perhaps due to a growing focus on nonconvex and nonlinear
-problems where duality does not seem to be directly applicable. With this
-workshop, we aim to revive the interest of the ML community in duality
-principles.
+problems where duality does not seem to be directly applicable.
+
+**With this workshop, we aim to revive the interest of the ML community in duality
+principles.**
