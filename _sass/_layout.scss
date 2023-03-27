@@ -1,0 +1,80 @@
+/******************************************************************************
+ * Content
+ ******************************************************************************/
+
+body {
+  padding-bottom: 70px;
+  color: var(--global-text-color);
+  background-color: var(--global-bg-color);
+
+  h1, h2, h3, h4, h5, h6 {
+    scroll-margin-top: 66px;
+  }
+}
+
+body.fixed-top-nav {
+  // Add some padding for the nav-bar.
+  padding-top: 56px;
+}
+
+body.sticky-bottom-footer {
+  // Remove padding below footer.
+  padding-bottom: 0;
+}
+
+.container {
+  max-width: $max-content-width;
+}
+
+// Profile
+.profile {
+  img {
+    width: 100%;
+  }
+}
+
+// TODO: redefine content layout.
+
+
+/******************************************************************************
+ * Publications
+ ******************************************************************************/
+
+// TODO: redefine publications layout.
+
+
+/*****************************************************************************
+* Projects
+*****************************************************************************/
+
+// TODO: redefine projects layout.
+
+
+#speaker-table td {
+  padding-left: 10px; 
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+  #conference-table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  #conference-table th, #conference-table td {
+    text-align: left;
+    padding: 12px;
+    border: 1px solid #ddd;
+  }
+  #conference-table th {
+    background-color: #007bff;
+    color: white;
+  }
+  #conference-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  #conference-table tr:hover {
+    background-color: #ddd;
+  }

@@ -1,0 +1,93 @@
+---
+layout: default
+---
+
+<!-- about.html -->
+      <div class="post">
+        <header class="post-header">
+          <h1 class="post-title">
+           {% if site.title == "blank" -%}<span
+      class="font-weight-bold">{{ site.first_name }}</span> <br> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
+          </h1>
+          <p class="desc"> <b> {{ page.subtitle }} </b> </p>
+        </header>
+
+        <article>
+          {% if page.profile -%}
+          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+            {%- if page.profile.image %}
+              {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
+
+              {% if page.profile.image_circular %}
+                {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
+              {% else %}
+                {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+              {% endif %}
+
+              {% include figure.html 
+              path=profile_image_path 
+              class=profile_image_class
+              alt=page.profile.image -%}
+            {% endif -%}
+            {%- if page.profile.address %}
+            <div class="address">
+              {{ page.profile.address }}
+            </div>
+            {%- endif %}
+          </div>
+          {%- endif %}
+
+          <div class="clearfix">
+            {{ content }}
+          </div>
+
+          <!-- News -->
+          {% if page.news -%}
+            <h2>Announcements</h2>
+            {%- include news.html %}
+          {%- endif %}
+	  
+	  <h2>Confirmed Speakers</h2>
+
+	  <table id="speaker-table" style="width:75%">
+	    <tr>
+	      <td style="text-align:center"><img src="https://amyzhang.github.io/images/profile.png" height="175" /></td>
+	      <td style="text-align:center"><img src="https://ronnybergmann.net/assets/ronnybergmann.jpg" height="175" /></td>
+	      <td style="text-align:center"><img src="http://ibis.t.u-tokyo.ac.jp/suzuki/suzuki.jpg" height="175" /></td>
+	    </tr>
+	    <tr>
+	      <td style="text-align:center"><a href="https://amyzhang.github.io">Amy Zhang</a> <br />Assistant Professor,<br/> UT Austin</td>
+	      <td style="text-align:center"><a href="https://ronnybergmann.net">Ronny Bergmann</a> <br />Associate Professor, NTNU</td>
+	      <td style="text-align:center"><a href="http://ibis.t.u-tokyo.ac.jp/suzuki/">Taiji Suzuki</a> <br />Associate Professor, <br/>University of Tokyo</td>
+	    </tr>
+	    <tr>
+	      <td style="text-align:center"><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=F6omR3gAAAAJ&citpid=6" height="175" /></td>
+	      <td style="text-align:center"><img src="https://jj-zhu.github.io/images/avatar.jpg" height="175" /></td>
+	      <td style="text-align:center"><img src="https://www.utwente.nl/.uc/ibf40ecbd0102adb0ba001395c50158fc54058011ecd30701c49001e10180/yfad8rgnfj12w5q8rpo1ow.jpg" height="175" /></td>
+	    </tr>
+	    <tr>
+	      <td style="text-align:center"><a href="https://sites.google.com/view/eamid/">Ehsan Amid</a> <br />Research Scientist, <br />Google Brain</td>
+	      <td style="text-align:center"><a href="https://jj-zhu.github.io">Jia-Jie Zhu</a> <br />Research Group Leader,<br/>Weierstrass Institute</td>
+	      <td style="text-align:center"><a href="https://people.utwente.nl/l.spek">Len Spek</a> <br />Post-doc, <br/>University of Twente</td>
+	    </tr>
+	  </table>
+
+	  <br>
+
+	  <h2>Panelists</h2>
+
+	  To be announced soon!
+
+	  <br>
+	  <br>
+	  <br>
+	  
+	  <h2>Contact</h2>
+
+	  Please contact us at
+	  <a href="duality_principles_icml2023@googlegroups.com">duality_principles_icml2023@googlegroups.com</a>
+	  if you have any questions.
+        
+        </article>
+
+</div>
