@@ -50,4 +50,6 @@ We invite submissions related (but not limited to) the following topics:
 To be announced soon!
 
 ### Contact
-Please contact us at <a href="duality_principles_icml2023@googlegroups.com">duality_principles_icml2023@googlegroups.com</a>if you have any questions.
+Please contact us at <a
+href="duality_principles_icml2023@googlegroups.com">duality_principles_icml2023@googlegroups.com</a>
+if you have any questions.
