@@ -20,7 +20,7 @@ tentative outline for the workshop. All times are in Hawaii Standard Time (GMT-1
   </tr>
   <tr>
   <td>9:00 - 9:20</td>
-  <td>Talk</td>
+  <td>Opening Remarks</td>
   <td>Duality in Modern ML</td>
   <td>The Organizers</td> 
   </tr>
