@@ -31,6 +31,7 @@ We invite submissions of papers related (but not limited) to the following topic
 **Theory of duality principle:**
 * Representer theorems
 * Lagrange and Fenchel dualities, generalized conjugacy and abstract convexity
+* Duality on manifolds or metric spaces, geodesic convexity
 * Convex relaxations and duality for nonconvex problems
 * Duality for optimization over measures, duality in optimal transport
 * Other dualities in mathematics, e.g., information geometry, algebraic geometry
