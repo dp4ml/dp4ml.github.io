@@ -5,7 +5,7 @@ permalink: /cfp/
 subtitle: 
 description: 
 nav: true
-nav_order: 4
+nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 
@@ -26,7 +26,7 @@ will be presented as posters during our poster sessions, and selected
 papers will be given an oral presentation.
 
 ### Topics
-We invite submissions related (but not limited to) the following topics:
+We invite submissions of papers related (but not limited) to the following topics:
 
 **Theory of duality principle:**
 * Representer theorems
@@ -42,12 +42,22 @@ We invite submissions related (but not limited to) the following topics:
 * Reinforcement learning, control, and deep learning in general
 
 ### Important Dates
-* Submission Deadline: *tba*
-* Acceptance Notification: *tba*
+* Submission Deadline: May 22nd, 2023 (Anywhere on Earth)
+* Acceptance Notification: June 19th, 2023
 * Camera-Ready Deadline: *tba*
 
-### Submission Details
-To be announced soon!
+### Submission Instructions
+Submitted papers are composed of a main body, which can be up to
+**eight pages** long, followed by unlimited pages for references and
+an appendix, all in a single file. For details concerning the format
+of the papers, please see the [LaTeX style files](). All submissions must be via
+OpenReview and anonymized, otherwise, they will automatically be
+rejected. In particular, any submission whose main body goes over the
+8 page limit will be automatically rejected.
+For the final version, an extra page will be allowed. 
+
+To submit your paper, please visit the workshop's
+[OpenReview submission website](.).
 
 ### Contact
 Please contact us at <a
