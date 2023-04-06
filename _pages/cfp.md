@@ -25,7 +25,6 @@ to submit their latest work to our ICML 2023 workshop. Accepted papers
 will be presented as posters during our poster sessions, and selected
 papers will be given an oral presentation.
 
-### Topics
 We invite submissions of papers related (but not limited) to the following topics:
 
 **Theory of duality principle:**
