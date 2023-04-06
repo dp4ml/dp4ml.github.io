@@ -50,7 +50,7 @@ We invite submissions of papers related (but not limited) to the following topic
 Submitted papers are composed of a main body, which can be up to
 **eight pages** long, followed by unlimited pages for references and
 an appendix, all in a single file. For details concerning the format
-of the papers, please see the [LaTeX style files](). All submissions must be via
+of the papers, please see the [LaTeX style files](https://github.com/dp4ml/dp4ml.github.io/raw/main/ICML%20duality%20workshop%20template.zip). All submissions must be via
 OpenReview and anonymized, otherwise, they will automatically be
 rejected. In particular, any submission whose main body goes over the
 8 page limit will be automatically rejected.
