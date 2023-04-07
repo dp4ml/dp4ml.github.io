@@ -57,7 +57,7 @@ rejected. In particular, any submission whose main body goes over the
 For the final version, an extra page will be allowed. 
 
 To submit your paper, please visit the workshop's
-[OpenReview submission website](.).
+[OpenReview submission website](https://openreview.net/group?id=ICML.cc/2023/Workshop/DP4ML).
 
 ### Contact
 Please contact us at <a
