@@ -57,6 +57,22 @@ body.sticky-bottom-footer {
   padding-bottom: 5px;
 }
 
+  /* styles for screens smaller than 600px */
+  @media screen and (max-width: 600px) {
+    #speaker-table {
+      width: 100%;
+    }
+    #speaker-table td {
+      text-align: center;
+      height: 33.33%;
+    }
+    #speaker-table td img {
+	height: 105px;
+	width: auto;
+    }
+  }
+
+
   #conference-table {
     border-collapse: collapse;
     width: 100%;
