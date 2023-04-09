@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Duality Principles for Modern Machine Learning
+first_name: Duality Principles
 middle_name: 
-last_name: 
+last_name: for Modern ML
 email:  duality_principles_icml2023@googlegroups.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   ICML 2023 Workshop on Duality Principles for Modern ML
@@ -50,7 +50,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 1000px
+max_width: 800px
 
 # TODO: add layout settings (single page vs. multi-page)
 
