@@ -59,6 +59,11 @@ For the final version, an extra page will be allowed.
 To submit your paper, please visit the workshop's
 [OpenReview submission website](https://openreview.net/group?id=ICML.cc/2023/Workshop/DP4ML).
 
+### Dual Submission Policy
+We welcome submissions of ongoing and unpublished work, including
+papers that are under review at any venue. Works that have been previously published or accepted for publication will not be considered. There will be no workshop
+proceedings or book. The list of accepted papers will be posted on the workshop website. 
+
 ### Contact
 Please contact us at <a
 href="duality_principles_icml2023@googlegroups.com">duality_principles_icml2023@googlegroups.com</a>
