@@ -9,7 +9,7 @@ horizontal: false
 ---
 
 The workshop will be held in-person at ICML 2023 at the Hawaii
-Convention Center on either July 28th or July 29th, 2023. Below is the
+Convention Center on July 29th, 2023. Below is the
 tentative outline for the workshop. All times are in Hawaii Standard Time (GMT-10):
 <table id="conference-table">
   <tr>
@@ -21,14 +21,15 @@ tentative outline for the workshop. All times are in Hawaii Standard Time (GMT-1
   <tr>
   <td>9:00 - 9:20</td>
   <td>Opening Remarks</td>
-  <td>Duality in Modern ML</td>
+  <td>Duality: Old and New</td>
   <td>The Organizers</td> 
   </tr>
   <tr>
     <td>9:25 - 9:55</td>
     <td>Invited Talk</td>
-	<td>tba</td>
-	<td>tba</td>
+	<td>Fenchel Duality Theory on Riemannian Manifolds and the
+	Riemannian Chambolle-Pock Algorithm</td>
+	<td><a href="https://ronnybergmann.net/">Ronny Bergmann</a></td>
   </tr>
   <tr>
     <td>10:00 - 10:15</td>
@@ -49,8 +50,9 @@ tentative outline for the workshop. All times are in Hawaii Standard Time (GMT-1
   <tr>
     <td>11:00 - 11:30</td>
     <td>Invited Talk</td>
-	<td>tba</td>
-	<td>tba</td>
+	<td>Duality from Gradient Flow Force-Balance to Distributionally
+	Robust Learning</td>
+	<td><a href="https://jj-zhu.github.io/">Jia-Jie Zhu</a></td>
   </tr>
   <tr>
     <td>11:30 - 12:00</td>
