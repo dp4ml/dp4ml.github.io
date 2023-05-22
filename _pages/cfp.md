@@ -42,7 +42,7 @@ We invite submissions of papers related (but not limited) to the following topic
 * Reinforcement learning, control, and deep learning in general
 
 ### Important Dates
-* Submission Deadline: May 22nd, 2023 (Anywhere on Earth)
+* Submission Deadline: May 29th, 2023 (Anywhere on Earth)
 * Acceptance Notification: June 19th, 2023
 * Camera-Ready Deadline: *tba*
 
