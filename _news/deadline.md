@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<span style="color:red">The submission deadline is extended to May 29th, anywhere on earth. </span>.
+<span style="color:red"><b>The submission deadline is extended to May 29th, anywhere on earth.</b> </span>.
