@@ -57,8 +57,8 @@ tentative outline for the workshop. All times are in Hawaii Standard Time (GMT-1
   <tr>
     <td>11:30 - 12:00</td>
     <td>Invited Talk</td>
-	<td>tba</td>
-	<td>tba</td>
+	<td>Duality for Neural Networks through Reproducing Kernel Banach Spaces</td>
+	<td> <a href="https://people.utwente.nl/l.spek"> Len Spek </a> </td>
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
