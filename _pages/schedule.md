@@ -116,4 +116,103 @@ tentative outline for the workshop. All times are in Hawaii Standard Time (GMT-1
 
 </table>
 
+<br>
+<br>
+
+List of papers, accepted as poster presentation (oral presentations to
+be announced soon):
+<table id="conference-table">
+  <thead>
+    <tr>
+      <th>Paper Title</th>
+      <th>Authors</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Time-Reversed Dissipation Induces Duality Between Minimizing Gradient Norm and Function Value</td>
+      <td>Jaeyeon Kim, Asuman E. Ozdaglar, Chanwoo Park, Ernest K. Ryu</td>
+    </tr>
+    <tr>
+      <td>Decision-Aware Actor-Critic with Function Approximation and Theoretical Guarantees</td>
+      <td>Sharan Vaswani, Amirreza Kazemi, Reza Babanezhad Harikandeh, Nicolas Le Roux</td>
+    </tr>
+    <tr>
+      <td>The Power of Duality Principle in Offline Average-Reward Reinforcement Learning</td>
+      <td>Asuman E. Ozdaglar, Sarath Pattathil, Jiawei Zhang, Kaiqing Zhang</td>
+    </tr>
+    <tr>
+      <td>Reward-Based Reinforcement Learning with Risk Constraints</td>
+      <td>Jane Lee, Konstantinos Nikolakakis, Dionysios Kalogerias, Amin Karbasi</td>
+    </tr>
+    <tr>
+      <td>A max-affine spline approximation of neural networks using the Legendre transform of a convex-concave representation</td>
+      <td>Adam Perrett, Danny Wood, Gavin Brown</td>
+    </tr>
+    <tr>
+      <td>Duality Principle and Biologically Plausible Learning: Connecting the Representer Theorem and Hebbian Learning</td>
+      <td>Yanis Bahroun, Dmitri Chklovskii, Anirvan M. Sengupta</td>
+    </tr>
+    <tr>
+      <td>On the Fisher-Rao Gradient of the Evidence Lower Bound</td>
+      <td>Jesse van Oostrum, Nihat Ay</td>
+    </tr>
+    <tr>
+      <td>Duality in Multi-View Restricted Kernel Machines</td>
+      <td>Sonny Achten, Arun Pandey, Hannes De Meulemeester, Bart De Moor, Johan Suykens</td>
+    </tr>
+    <tr>
+      <td>A Dual Formulation for Probabilistic Principal Component Analysis</td>
+      <td>Henri De Plaen, Johan Suykens</td>
+    </tr>
+    <tr>
+      <td>Energy-Based Non-Negative Tensor Factorization via Multi-Body Modeling</td>
+      <td>Kazu Ghalamkari, Mahito Sugiyama</td>
+    </tr>
+    <tr>
+      <td>Dual Prox-Linear Directions for Deep Learning</td>
+      <td>Vincent Roulet, Mathieu Blondel</td>
+    </tr>
+    <tr>
+      <td>Controlling the Inductive Bias of Wide Neural Networks by Modifying the Kernel's Spectrum</td>
+      <td>Amnon Geifman, Daniel Barzilai, Ronen Basri, Meirav Galun</td>
+    </tr>
+    <tr>
+      <td>Kernel Mirror Prox and RKHS Gradient Flow for Mixed Functional Nash Equilibrium</td>
+      <td>Pavel Dvurechensky, Jia-Jie Zhu</td>
+      </tr>
+	   <tr>
+    <td>A Representer Theorem for Vector-Valued Neural Networks: Insights on Weight Decay Training and Widths of Deep Neural Networks</td>
+    <td>Joseph Shenouda, Rahul Parhi, Kangwook Lee, Robert D Nowak</td>
+  </tr>
+  <tr>
+    <td>RIFLE: Imputation and Robust Inference from Low Order Marginals</td>
+    <td>Sina Baharlouei, Kelechi Ogudu, Peng Dai, Sze-chuan Suen, Meisam Razaviyayn</td>
+  </tr>
+  <tr>
+    <td>Estimating Joint interventional distributions from marginal interventional data</td>
+    <td>Sergio Hernan Garrido Mejia, Elke Kirschbaum, Armin Kekić, Atalanti A. Mastakouri</td>
+  </tr>
+  <tr>
+    <td>Learning with Primal-Dual Spectral Risk Measures: a Fast Incremental Algorithm</td>
+    <td>Ronak Mehta, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui</td>
+  </tr>
+  <tr>
+    <td>Implicit Interpretation of Importance Weight Aware Updates</td>
+    <td>Keyi Chen, Francesco Orabona</td>
+  </tr>
+  <tr>
+    <td>The Memory-Perturbation Equation: Understanding Model's Sensitivity to Data</td>
+    <td>Peter Nickl, Lu Xu, Dharmesh Tailor, Thomas Möllenhoff, Mohammad Emtiyaz Khan</td>
+  </tr>
+  <tr>
+    <td>Memory Maps to Understand Models</td>
+    <td>Dharmesh Tailor, Paul Edmund Chang, Siddharth Swaroop, Eric Nalisnick, Arno Solin, Mohammad Emtiyaz Khan</td>
+  </tr>
+  <tr>
+    <td>Sparse Function-Space Representation of Neural Networks</td>
+    <td>Aidan Scannell, Riccardo Mereu, Paul Edmund Chang, Ella Tamir, Joni Pajarinen, Arno Solin</td>
+  </tr>
+	  </tbody>
+	  </table>
 
