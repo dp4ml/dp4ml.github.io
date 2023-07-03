@@ -76,13 +76,14 @@ body.sticky-bottom-footer {
   #conference-table {
     border-collapse: collapse;
     width: 100%;
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
   }
   #conference-table th, #conference-table td {
     text-align: left;
     padding: 12px;
     border: 1px solid #ddd;
+    font-size: 14px; /* Updated font size */
   }
   #conference-table th {
     background-color: #000000;
