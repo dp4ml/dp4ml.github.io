@@ -94,7 +94,7 @@ tentative outline for the workshop. All times are in Hawaii Standard Time (GMT-1
   <tr>
     <td>16:00 - 16:30</td>
     <td>Invited Talk</td>
-	<td>(to be announced)</td>
+	<td>A dualistic view of activations in deep neural networks</td>
 	<td> <a href="https://sites.google.com/view/eamid/"> Ehsan Amid </a> </td>
   </tr>
   <tr>
