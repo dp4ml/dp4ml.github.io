@@ -62,7 +62,7 @@ tentative outline for the workshop. All times are in Hawaii Standard Time (GMT-1
   <tr>
     <td>11:30 - 12:00</td>
     <td>Invited Talk</td>
-	<td>(to be announced)</td>
+	<td>(title to be announced)</td>
 	<td> <a href="http://ibis.t.u-tokyo.ac.jp/suzuki/"> Taiji Suzuki </a> </td>
 	</tr>
   <tr>
@@ -117,7 +117,7 @@ List of accepted papers:
   </thead>
   <tbody>
     <tr>
-      <td>Time-Reversed Dissipation Induces Duality Between Minimizing Gradient Norm and Function Value</td>
+      <td><a href="https://arxiv.org/abs/2305.06628">Time-Reversed Dissipation Induces Duality Between Minimizing Gradient Norm and Function Value</a></td>
       <td>Jaeyeon Kim, Asuman E. Ozdaglar, Chanwoo Park, Ernest K. Ryu</td>
     </tr>
     <tr>
