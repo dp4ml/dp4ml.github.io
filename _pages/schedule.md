@@ -19,91 +19,89 @@ tentative outline for the workshop. All times are in Hawaii Standard Time (GMT-1
     <th>Speaker</th>
   </tr>
   <tr>
-  <td>8:30 - 9:00</td>
+  <td>9:00 - 9:30</td>
   <td>Opening Remarks</td>
   <td>Duality: An Overview</td>
   <td>Workshop Organizers</td> 
   </tr>
   <tr>
-    <td>9:00 - 9:30</td>
+    <td>9:30 - 10:00</td>
     <td>Invited Talk</td>
 	<td>Fenchel Duality Theory on Riemannian Manifolds and the
 	Riemannian Chambolle-Pock Algorithm</td>
 	<td><a href="https://ronnybergmann.net/">Ronny Bergmann</a></td>
   </tr>
   <tr>
-    <td>9:30 - 9:45</td>
+    <td>10:00 - 10:15</td>
+    <td colspan="3" style="text-align: center"> <b>Coffee break</b></td>
+  </tr>
+<tr>
+    <td>10:15 - 10:30</td>
     <td>Contributed Talk</td>
 	<td>Time-Reversed Dissipation Induces Duality Between Minimizing Gradient Norm and Function Value</td>
-	<td>Jaeyon Kim</td>
+	<td>Jaeyeon Kim</td>
   </tr>
   <tr>
-    <td>9:45 - 10:00</td>
+    <td>10:30 - 10:45</td>
     <td>Contributed Talk</td>
 	<td>RIFLE: Imputation and Robust Inference from Low Order Marginals</td>
 	<td>Sina Baharlouei</td>
   </tr>
   <tr>
-    <td>10:00 - 10:30</td>
-    <td colspan="3" style="text-align: center"> <b>Coffee break</b></td>
-  </tr>
-  <tr>
-    <td>10:30 - 11:00</td>
-    <td>Invited Talk</td>
-	<td>Duality from Gradient Flow Force-Balance to Distributionally
-	Robust Learning</td>
-	<td><a href="https://jj-zhu.github.io/">Jia-Jie Zhu</a></td>
-  </tr>
-  <tr>
-    <td>11:00 - 11:30</td>
-    <td>Invited Talk</td>
-	<td>(to be announced)</td>
-	<td> <a href="http://ibis.t.u-tokyo.ac.jp/suzuki/"> Taiji Suzuki </a> </td>
-	</tr>
-<tr>
-    <td>11:30 - 12:00</td>
-    <td>Invited Talk</td>
-	<td>(to be announced)</td>
-	<td> <a href="https://amyzhang.github.io"> Amy Zhang </a> </td>
-  </tr>
-  <tr>
-    <td>12:00 - 13:00</td>
-    <td colspan="3" style="text-align: center"> <b>Lunch & Poster Session</b></td>
-  </tr>
-  <tr>
-    <td>13:00 - 14:15</td>
-    <td colspan="3" style="text-align: center"> <b>Poster Session</b></td>
-  </tr>
-  <tr>
-    <td>14:15 - 14:45</td>
-    <td>Invited Talk</td>
-	<td>Duality for Neural Networks through Reproducing Kernel Banach Spaces</td>
-	<td> <a href="https://people.utwente.nl/l.spek"> Len Spek </a> </td>
-  </tr>
-  <tr>
-    <td>14:45 - 15:00</td>
+    <td>10:45 - 11:00</td>
     <td>Contributed Talk</td>
 	<td>A Representer Theorem for Vector-Valued Neural Networks: Insights on Weight Decay Training and Widths of Deep Neural Networks</td>
 	<td>Joseph Shenouda</td>
   </tr>
   <tr>
-    <td>15:00 - 16:00</td>
+    <td>11:00 - 11:30</td>
+    <td>Invited Talk</td>
+	<td>Duality for Neural Networks through Reproducing Kernel Banach Spaces</td>
+	<td> <a href="https://people.utwente.nl/l.spek"> Len Spek </a> </td>
+  </tr>
+  <tr>
+    <td>11:30 - 12:00</td>
+    <td>Invited Talk</td>
+	<td>(to be announced)</td>
+	<td> <a href="http://ibis.t.u-tokyo.ac.jp/suzuki/"> Taiji Suzuki </a> </td>
+	</tr>
+  <tr>
+    <td>12:00 - 13:00</td>
+    <td colspan="3" style="text-align: center"> <b>Lunch & Poster Session</b></td>
+  </tr>
+  <tr>
+    <td>13:00 - 14:00</td>
+    <td colspan="3" style="text-align: center"> <b>Poster Session</b></td>
+  </tr>
+<tr>
+    <td>14:00 - 14:30</td>
+    <td>Invited Talk</td>
+	<td>Duality from Gradient Flow Force-Balance to Distributionally
+	Robust Learning</td>
+	<td><a href="https://jj-zhu.github.io/">Jia-Jie Zhu</a></td>
+  </tr>
+<tr>
+    <td>14:30 - 15:00</td>
+    <td>Invited Talk</td>
+	<td>Dual RL: Unification and New Methods for Reinforcement and Imitation Learning</td>
+	<td> <a href="https://amyzhang.github.io"> Amy Zhang </a> </td>
+  </tr>
+<tr>
+    <td>15:00 - 15:30</td>
     <td colspan="3" style="text-align: center"> <b>Coffee Break & Poster Session</b></td>
   </tr>
-
   <tr>
-    <td>16:00 - 16:30</td>
+    <td>15:30 - 16:00</td>
     <td>Invited Talk</td>
 	<td>A Dualistic View of Activations in Deep Neural Networks</td>
 	<td> <a href="https://sites.google.com/view/eamid/"> Ehsan Amid </a> </td>
   </tr>
   <tr>
-    <td>16:30 - 17:30</td>
+    <td>16:00 - 17:00</td>
 	<td>Panel Discussion</td>
 	<td>Duality in Modern Machine Learning</td>
 	<td>Speakers & Organizers</td>
   </tr>
-
 </table>
 
 <br>
