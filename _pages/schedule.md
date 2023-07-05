@@ -157,7 +157,7 @@ List of accepted papers:
       <td>Kazu Ghalamkari, Mahito Sugiyama</td>
     </tr>
     <tr>
-      <td>Dual Prox-Linear Directions for Deep Learning</td>
+      <td>Dual Gauss-Newton Directions for Deep Learning</td>
       <td>Vincent Roulet, Mathieu Blondel</td>
     </tr>
     <tr>
