@@ -25,73 +25,74 @@ tentative outline for the workshop. All times are in Hawaii Standard Time (GMT-1
   <td>Workshop Organizers</td> 
   </tr>
   <tr>
-    <td>9:30 - 10:00</td>
+    <td>9:30 - 9:55</td>
     <td>Invited Talk</td>
 	<td>Fenchel Duality Theory on Riemannian Manifolds and the
 	Riemannian Chambolle-Pock Algorithm</td>
 	<td><a href="https://ronnybergmann.net/">Ronny Bergmann</a></td>
   </tr>
   <tr>
-    <td>10:00 - 10:15</td>
+    <td>9:55 - 10:10</td>
     <td colspan="3" style="text-align: center"> <b>Coffee break</b></td>
   </tr>
 <tr>
-    <td>10:15 - 10:30</td>
+    <td>10:10 - 10:20</td>
     <td>Contributed Talk</td>
 	<td>Time-Reversed Dissipation Induces Duality Between Minimizing Gradient Norm and Function Value</td>
 	<td>Jaeyeon Kim</td>
   </tr>
   <tr>
-    <td>10:30 - 10:45</td>
+    <td>10:20 - 10:30</td>
     <td>Contributed Talk</td>
 	<td>RIFLE: Imputation and Robust Inference from Low Order Marginals</td>
 	<td>Sina Baharlouei</td>
   </tr>
   <tr>
-    <td>10:45 - 11:00</td>
+    <td>10:30 - 10:40</td>
     <td>Contributed Talk</td>
 	<td>A Representer Theorem for Vector-Valued Neural Networks: Insights on Weight Decay Training and Widths of Deep Neural Networks</td>
 	<td>Joseph Shenouda</td>
   </tr>
   <tr>
-    <td>11:00 - 11:30</td>
+    <td>10:40 - 11:05</td>
     <td>Invited Talk</td>
 	<td>Duality for Neural Networks through Reproducing Kernel Banach Spaces</td>
 	<td> <a href="https://people.utwente.nl/l.spek"> Len Spek </a> </td>
   </tr>
   <tr>
-    <td>11:30 - 12:00</td>
+    <td>11:05 - 11:30</td>
     <td>Invited Talk</td>
 	<td>(title to be announced)</td>
 	<td> <a href="http://ibis.t.u-tokyo.ac.jp/suzuki/"> Taiji Suzuki </a> </td>
 	</tr>
-  <tr>
-    <td>12:00 - 13:00</td>
-    <td colspan="3" style="text-align: center"> <b>Lunch & Poster Session</b></td>
-  </tr>
-  <tr>
-    <td>13:00 - 14:00</td>
-    <td colspan="3" style="text-align: center"> <b>Poster Session</b></td>
-  </tr>
 <tr>
-    <td>14:00 - 14:30</td>
+    <td>11:30 - 11:55</td>
     <td>Invited Talk</td>
 	<td>Duality from Gradient Flow Force-Balance to Distributionally
 	Robust Learning</td>
 	<td><a href="https://jj-zhu.github.io/">Jia-Jie Zhu</a></td>
   </tr>
+  <tr>
+    <td>11:55 - 13:00</td>
+    <td colspan="3" style="text-align: center"> <b>Lunch</b></td>
+  </tr>
+  <tr>
+    <td>13:00 - 14:30</td>
+    <td colspan="3" style="text-align: center"> <b>Poster Session</b></td>
+  </tr>
 <tr>
-    <td>14:30 - 15:00</td>
+    <td>14:30 - 14:55</td>
     <td>Invited Talk</td>
 	<td>Dual RL: Unification and New Methods for Reinforcement and Imitation Learning</td>
 	<td> <a href="https://amyzhang.github.io"> Amy Zhang </a> </td>
   </tr>
 <tr>
-    <td>15:00 - 15:30</td>
-    <td colspan="3" style="text-align: center"> <b>Coffee Break & Poster Session</b></td>
+    <td>14:55 - 15:35</td>
+    <td colspan="3" style="text-align: center"> <b>Coffee Break &
+	Poster Session</b></td>
   </tr>
   <tr>
-    <td>15:30 - 16:00</td>
+    <td>15:35 - 16:00</td>
     <td>Invited Talk</td>
 	<td>A Dualistic View of Activations in Deep Neural Networks</td>
 	<td> <a href="https://sites.google.com/view/eamid/"> Ehsan Amid </a> </td>
@@ -145,7 +146,8 @@ List of accepted papers:
       <td>Jesse van Oostrum, Nihat Ay</td>
     </tr>
     <tr>
-      <td>Duality in Multi-View Restricted Kernel Machines</td>
+      <td><a href="http://www.sonnyachten.com/dMVRKM/"> Duality in
+	  Multi-View Restricted Kernel Machines </a></td>
       <td>Sonny Achten, Arun Pandey, Hannes De Meulemeester, Bart De Moor, Johan Suykens</td>
     </tr>
     <tr>
