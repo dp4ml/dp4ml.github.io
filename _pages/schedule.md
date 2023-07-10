@@ -62,7 +62,7 @@ tentative outline for the workshop. All times are in Hawaii Standard Time (GMT-1
   <tr>
     <td>11:05 - 11:30</td>
     <td>Invited Talk</td>
-	<td>(title to be announced)</td>
+	<td>(title to be announced soon)</td>
 	<td> <a href="http://ibis.t.u-tokyo.ac.jp/suzuki/"> Taiji Suzuki </a> </td>
 	</tr>
 <tr>

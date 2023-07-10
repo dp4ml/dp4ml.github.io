@@ -44,7 +44,7 @@ We invite submissions of papers related (but not limited) to the following topic
 ### Important Dates
 * Submission Deadline: May 29th, 2023 (Anywhere on Earth)
 * Acceptance Notification: June 19th, 2023
-* Camera-Ready Deadline: *tba*
+* Camera-Ready Deadline: July 20th, 2023 
 
 ### Submission Instructions
 Submitted papers are composed of a main body, which can be up to
