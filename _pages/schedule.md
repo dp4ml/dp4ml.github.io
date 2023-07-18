@@ -32,48 +32,48 @@ tentative outline for the workshop. All times are in Hawaii Standard Time (GMT-1
 	<td><a href="https://ronnybergmann.net/">Ronny Bergmann</a></td>
   </tr>
   <tr>
-    <td>9:55 - 10:10</td>
+    <td>9:55 - 10:09</td>
     <td colspan="3" style="text-align: center"> <b>Coffee break</b></td>
   </tr>
 <tr>
-    <td>10:10 - 10:20</td>
+    <td>10:09 - 10:21</td>
     <td>Contributed Talk</td>
 	<td>Time-Reversed Dissipation Induces Duality Between Minimizing Gradient Norm and Function Value</td>
 	<td>Jaeyeon Kim</td>
   </tr>
   <tr>
-    <td>10:20 - 10:30</td>
+    <td>10:21 - 10:33</td>
     <td>Contributed Talk</td>
 	<td>RIFLE: Imputation and Robust Inference from Low Order Marginals</td>
 	<td>Sina Baharlouei</td>
   </tr>
   <tr>
-    <td>10:30 - 10:40</td>
+    <td>10:33 - 10:45</td>
     <td>Contributed Talk</td>
 	<td>A Representer Theorem for Vector-Valued Neural Networks: Insights on Weight Decay Training and Widths of Deep Neural Networks</td>
 	<td>Joseph Shenouda</td>
   </tr>
   <tr>
-    <td>10:40 - 11:05</td>
+    <td>10:45 - 11:10</td>
     <td>Invited Talk</td>
 	<td>Duality for Neural Networks through Reproducing Kernel Banach Spaces</td>
 	<td> <a href="https://people.utwente.nl/l.spek"> Len Spek </a> </td>
   </tr>
   <tr>
-    <td>11:05 - 11:30</td>
+    <td>11:10 - 11:35</td>
     <td>Invited Talk</td>
 	<td>(title to be announced soon)</td>
 	<td> <a href="http://ibis.t.u-tokyo.ac.jp/suzuki/"> Taiji Suzuki </a> </td>
 	</tr>
 <tr>
-    <td>11:30 - 11:55</td>
+    <td>11:35 - 12:00</td>
     <td>Invited Talk</td>
 	<td>Duality from Gradient Flow Force-Balance to Distributionally
 	Robust Learning</td>
 	<td><a href="https://jj-zhu.github.io/">Jia-Jie Zhu</a></td>
   </tr>
   <tr>
-    <td>11:55 - 13:00</td>
+    <td>12:00 - 13:00</td>
     <td colspan="3" style="text-align: center"> <b>Lunch</b></td>
   </tr>
   <tr>
