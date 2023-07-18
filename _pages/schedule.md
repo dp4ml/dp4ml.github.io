@@ -122,7 +122,7 @@ List of accepted papers:
       <td>Jaeyeon Kim, Asuman E. Ozdaglar, Chanwoo Park, Ernest K. Ryu</td>
     </tr>
     <tr>
-      <td>Decision-Aware Actor-Critic with Function Approximation and Theoretical Guarantees</td>
+      <td><a href="https://arxiv.org/abs/2305.15249"> Decision-Aware Actor-Critic with Function Approximation and Theoretical Guarantees</a></td>
       <td>Sharan Vaswani, Amirreza Kazemi, Reza Babanezhad Harikandeh, Nicolas Le Roux</td>
     </tr>
     <tr>
