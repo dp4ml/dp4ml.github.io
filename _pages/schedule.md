@@ -32,7 +32,7 @@ tentative outline for the workshop. All times are in Hawaii Standard Time (GMT-1
 	<td><a href="https://ronnybergmann.net/">Ronny Bergmann</a></td>
   </tr>
   <tr>
-    <td>9:55 - 10:09</td>
+    <td>9:55 - 10:05</td>
     <td colspan="3" style="text-align: center"> <b>Coffee break</b></td>
   </tr>
 <tr>
