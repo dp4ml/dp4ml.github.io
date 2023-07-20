@@ -36,19 +36,19 @@ tentative outline for the workshop. All times are in Hawaii Standard Time (GMT-1
     <td colspan="3" style="text-align: center"> <b>Coffee break</b></td>
   </tr>
 <tr>
-    <td>10:09 - 10:21</td>
+    <td>10:05 - 10:17</td>
     <td>Contributed Talk</td>
 	<td>Time-Reversed Dissipation Induces Duality Between Minimizing Gradient Norm and Function Value</td>
 	<td>Jaeyeon Kim</td>
   </tr>
   <tr>
-    <td>10:21 - 10:33</td>
+    <td>10:17 - 10:29</td>
     <td>Contributed Talk</td>
 	<td>RIFLE: Imputation and Robust Inference from Low Order Marginals</td>
 	<td>Sina Baharlouei</td>
   </tr>
   <tr>
-    <td>10:33 - 10:45</td>
+    <td>10:30 - 10:42</td>
     <td>Contributed Talk</td>
 	<td>A Representer Theorem for Vector-Valued Neural Networks: Insights on Weight Decay Training and Widths of Deep Neural Networks</td>
 	<td>Joseph Shenouda</td>
@@ -134,7 +134,7 @@ List of accepted papers:
       <td>Jane Lee, Konstantinos Nikolakakis, Dionysios Kalogerias, Amin Karbasi</td>
     </tr>
     <tr>
-      <td>A max-affine spline approximation of neural networks using the Legendre transform of a convex-concave representation</td>
+      <td><a href="https://arxiv.org/abs/2307.09602"> A max-affine spline approximation of neural networks using the Legendre transform of a convex-concave representation</a></td>
       <td>Adam Perrett, Danny Wood, Gavin Brown</td>
     </tr>
     <tr>
@@ -151,7 +151,8 @@ List of accepted papers:
       <td>Sonny Achten, Arun Pandey, Hannes De Meulemeester, Bart De Moor, Johan Suykens</td>
     </tr>
     <tr>
-      <td>A Dual Formulation for Probabilistic Principal Component Analysis</td>
+      <td><a href=" https://hdeplaen.github.io/kppca"> A Dual
+	  Formulation for Probabilistic Principal Component Analysis </a></td>
       <td>Henri De Plaen, Johan Suykens</td>
     </tr>
     <tr>
