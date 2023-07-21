@@ -142,7 +142,7 @@ List of accepted papers:
       <td>Yanis Bahroun, Dmitri Chklovskii, Anirvan M. Sengupta</td>
     </tr>
     <tr>
-      <td>On the Fisher-Rao Gradient of the Evidence Lower Bound</td>
+      <td><a href="/assets/pdf/fisher.pdf">On the Fisher-Rao Gradient of the Evidence Lower Bound</a></td>
       <td>Jesse van Oostrum, Nihat Ay</td>
     </tr>
     <tr>
@@ -184,7 +184,7 @@ List of accepted papers:
     <td>Sergio Hernan Garrido Mejia, Elke Kirschbaum, Armin Kekić, Atalanti A. Mastakouri</td>
   </tr>
   <tr>
-    <td>Learning with Primal-Dual Spectral Risk Measures: a Fast Incremental Algorithm</td>
+    <td><a href="/assets/pdf/learning_primal_dual_srm_camera_ready.pdf">Learning with Primal-Dual Spectral Risk Measures: a Fast Incremental Algorithm</a></td>
     <td>Ronak Mehta, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui</td>
   </tr>
   <tr>
