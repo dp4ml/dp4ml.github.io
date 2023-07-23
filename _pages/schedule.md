@@ -62,7 +62,8 @@ tentative outline for the workshop. All times are in Hawaii Standard Time (GMT-1
   <tr>
     <td>11:10 - 11:35</td>
     <td>Invited Talk</td>
-	<td>(title to be announced soon)</td>
+	<td>Convergence of mean field Langevin dynamics: Duality viewpoint and
+neural network optimization</td>
 	<td> <a href="http://ibis.t.u-tokyo.ac.jp/suzuki/"> Taiji Suzuki </a> </td>
 	</tr>
 <tr>
@@ -126,7 +127,7 @@ List of accepted papers:
       <td>Sharan Vaswani, Amirreza Kazemi, Reza Babanezhad Harikandeh, Nicolas Le Roux</td>
     </tr>
     <tr>
-      <td>The Power of Duality Principle in Offline Average-Reward Reinforcement Learning</td>
+      <td><a href="/assets/pdf/ThePowerOfDuality.pdf">The Power of Duality Principle in Offline Average-Reward Reinforcement Learning</a></td>
       <td>Asuman E. Ozdaglar, Sarath Pattathil, Jiawei Zhang, Kaiqing Zhang</td>
     </tr>
     <tr>
@@ -176,7 +177,7 @@ List of accepted papers:
     <td>Joseph Shenouda, Rahul Parhi, Kangwook Lee, Robert D Nowak</td>
   </tr>
   <tr>
-    <td>RIFLE: Imputation and Robust Inference from Low Order Marginals</td>
+    <td><a href="/assets/pdf/RIFLE_Duality.pdf">RIFLE: Imputation and Robust Inference from Low Order Marginals</a></td>
     <td>Sina Baharlouei, Kelechi Ogudu, Peng Dai, Sze-chuan Suen, Meisam Razaviyayn</td>
   </tr>
   <tr>
