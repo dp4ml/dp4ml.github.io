@@ -56,8 +56,9 @@ tentative outline for the workshop. All times are in Hawaii Standard Time (GMT-1
   <tr>
     <td>10:45 - 11:10</td>
     <td>Invited Talk</td>
-	<td>Duality for Neural Networks through Reproducing Kernel Banach Spaces</td>
-	<td> <a href="https://people.utwente.nl/l.spek"> Len Spek </a> </td>
+	<td>Duality from Gradient Flow Force-Balance to Distributionally
+	Robust Learning</td>
+	<td><a href="https://jj-zhu.github.io/">Jia-Jie Zhu</a></td>
   </tr>
   <tr>
     <td>11:10 - 11:35</td>
@@ -69,9 +70,8 @@ neural network optimization</td>
 <tr>
     <td>11:35 - 12:00</td>
     <td>Invited Talk</td>
-	<td>Duality from Gradient Flow Force-Balance to Distributionally
-	Robust Learning</td>
-	<td><a href="https://jj-zhu.github.io/">Jia-Jie Zhu</a></td>
+	<td>Duality for Neural Networks through Reproducing Kernel Banach Spaces</td>
+	<td> <a href="https://people.utwente.nl/l.spek"> Len Spek </a> </td>
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
