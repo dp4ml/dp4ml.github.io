@@ -143,7 +143,7 @@ List of accepted papers:
       <td>Yanis Bahroun, Dmitri Chklovskii, Anirvan M. Sengupta</td>
     </tr>
     <tr>
-      <td><a href="/assets/pdf/fisher.pdf">On the Fisher-Rao Gradient of the Evidence Lower Bound</a></td>
+      <td><a href="http://arxiv.org/abs/2307.11249">On the Fisher-Rao Gradient of the Evidence Lower Bound</a></td>
       <td>Jesse van Oostrum, Nihat Ay</td>
     </tr>
     <tr>
