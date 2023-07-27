@@ -21,7 +21,7 @@ tentative outline for the workshop. All times are in Hawaii Standard Time (GMT-1
   <tr>
   <td>9:00 - 9:30</td>
   <td>Opening Remarks</td>
-  <td>Duality: An Overview</td>
+  <td>Duality: Opening Remarks</td>
   <td>Workshop Organizers</td> 
   </tr>
   <tr>
