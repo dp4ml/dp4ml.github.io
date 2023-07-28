@@ -193,7 +193,7 @@ List of accepted papers:
     <td>Keyi Chen, Francesco Orabona</td>
   </tr>
   <tr>
-    <td>The Memory-Perturbation Equation: Understanding Model's Sensitivity to Data</td>
+    <td><a href="/assets/pdf/MemoryPerturbation.pdf">The Memory-Perturbation Equation: Understanding Model's Sensitivity to Data</a></td>
     <td>Peter Nickl, Lu Xu, Dharmesh Tailor, Thomas Möllenhoff, Mohammad Emtiyaz Khan</td>
   </tr>
   <tr>
