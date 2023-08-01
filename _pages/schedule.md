@@ -21,14 +21,14 @@ tentative outline for the workshop. All times are in Hawaii Standard Time (GMT-1
   <tr>
   <td>9:00 - 9:30</td>
   <td>Opening Remarks</td>
-  <td>Duality: Opening Remarks</td>
+  <td><a href="/assets/pdf/slides/opening.pdf">Duality: Opening Remarks</a></td>
   <td>Workshop Organizers</td> 
   </tr>
   <tr>
     <td>9:30 - 9:55</td>
     <td>Invited Talk</td>
-	<td>Fenchel Duality Theory on Riemannian Manifolds and the
-	Riemannian Chambolle-Pock Algorithm</td>
+	<td><a href="/assets/pdf/slides/ronnybergmann.pdf">Fenchel Duality Theory on Riemannian Manifolds and the
+	Riemannian Chambolle-Pock Algorithm</a></td>
 	<td><a href="https://ronnybergmann.net/">Ronny Bergmann</a></td>
   </tr>
   <tr>
@@ -38,39 +38,39 @@ tentative outline for the workshop. All times are in Hawaii Standard Time (GMT-1
 <tr>
     <td>10:05 - 10:17</td>
     <td>Contributed Talk</td>
-	<td>Time-Reversed Dissipation Induces Duality Between Minimizing Gradient Norm and Function Value</td>
+	<td><a href="/assets/pdf/slides/jaeyeonkim.pdf">Time-Reversed Dissipation Induces Duality Between Minimizing Gradient Norm and Function Value</a></td>
 	<td>Jaeyeon Kim</td>
   </tr>
   <tr>
     <td>10:17 - 10:29</td>
     <td>Contributed Talk</td>
-	<td>RIFLE: Imputation and Robust Inference from Low Order Marginals</td>
+	<td><a href="/assets/pdf/slides/sinabaharlouei.pdf">RIFLE: Imputation and Robust Inference from Low Order Marginals</a></td>
 	<td>Sina Baharlouei</td>
   </tr>
   <tr>
     <td>10:30 - 10:42</td>
     <td>Contributed Talk</td>
-	<td>A Representer Theorem for Vector-Valued Neural Networks: Insights on Weight Decay Training and Widths of Deep Neural Networks</td>
+	<td><a href="/assets/pdf/slides/josephshenouda.pdf">A Representer Theorem for Vector-Valued Neural Networks: Insights on Weight Decay Training and Widths of Deep Neural Networks</a></td>
 	<td>Joseph Shenouda</td>
   </tr>
   <tr>
     <td>10:45 - 11:10</td>
     <td>Invited Talk</td>
-	<td>Duality from Gradient Flow Force-Balance to Distributionally
-	Robust Learning</td>
+	<td><a href="/assets/pdf/slides/jiajiezhu.pdf">Duality from Gradient Flow Force-Balance to Distributionally
+	Robust Learning</a></td>
 	<td><a href="https://jj-zhu.github.io/">Jia-Jie Zhu</a></td>
   </tr>
   <tr>
     <td>11:10 - 11:35</td>
     <td>Invited Talk</td>
-	<td>Convergence of mean field Langevin dynamics: Duality viewpoint and
-neural network optimization</td>
+	<td><a href="/assets/pdf/slides/taijisuzuki.pdf">Convergence of mean field Langevin dynamics: Duality viewpoint and
+neural network optimization</a></td>
 	<td> <a href="http://ibis.t.u-tokyo.ac.jp/suzuki/"> Taiji Suzuki </a> </td>
 	</tr>
 <tr>
     <td>11:35 - 12:00</td>
     <td>Invited Talk</td>
-	<td>Duality for Neural Networks through Reproducing Kernel Banach Spaces</td>
+	<td><a href="/assets/pdf/slides/lenspek.pdf">Duality for Neural Networks through Reproducing Kernel Banach Spaces</a></td>
 	<td> <a href="https://people.utwente.nl/l.spek"> Len Spek </a> </td>
   </tr>
   <tr>
@@ -84,7 +84,7 @@ neural network optimization</td>
 <tr>
     <td>14:30 - 14:55</td>
     <td>Invited Talk</td>
-	<td>Dual RL: Unification and New Methods for Reinforcement and Imitation Learning</td>
+	<td><a href="/assets/pdf/slides/amyzhang.pdf">Dual RL: Unification and New Methods for Reinforcement and Imitation Learning</a></td>
 	<td> <a href="https://amyzhang.github.io"> Amy Zhang </a> </td>
   </tr>
 <tr>
@@ -95,13 +95,13 @@ neural network optimization</td>
   <tr>
     <td>15:35 - 16:00</td>
     <td>Invited Talk</td>
-	<td>A Dualistic View of Activations in Deep Neural Networks</td>
+	<td> <a href="/assets/pdf/slides/ehsanamid.pdf">A Dualistic View of Activations in Deep Neural Networks</a></td>
 	<td> <a href="https://sites.google.com/view/eamid/"> Ehsan Amid </a> </td>
   </tr>
   <tr>
     <td>16:00 - 17:00</td>
 	<td>Panel Discussion</td>
-	<td>Duality in Modern Machine Learning</td>
+	<td> <a href="/assets/panel.jpeg">Duality in Modern Machine Learning</a></td>
 	<td>Speakers & Organizers</td>
   </tr>
 </table>
@@ -173,7 +173,7 @@ List of accepted papers:
       <td>Pavel Dvurechensky, Jia-Jie Zhu</td>
       </tr>
 	   <tr>
-    <td>A Representer Theorem for Vector-Valued Neural Networks: Insights on Weight Decay Training and Widths of Deep Neural Networks</td>
+    <td><a href="https://arxiv.org/abs/2305.16534">A Representer Theorem for Vector-Valued Neural Networks: Insights on Weight Decay Training and Widths of Deep Neural Networks</a></td>
     <td>Joseph Shenouda, Rahul Parhi, Kangwook Lee, Robert D Nowak</td>
   </tr>
   <tr>
