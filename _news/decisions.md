@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper decisions are out!  For the list of accepted papers, see the [schedule](https://dp4ml.github.io/schedule/).
+Paper decisions are out!  The list of accepted papers is [here](https://dp4ml.github.io/papers/).
